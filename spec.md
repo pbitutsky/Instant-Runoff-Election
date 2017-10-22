@@ -9,7 +9,7 @@ From Wikipedia:
 
 >Instead of voting only for a single candidate, voters in IRV elections can rank the candidates in order of preference. Ballots are initially counted for each elector's top choice. If a candidate secures more than half of these votes, that candidate wins. Otherwise, the candidate in last place is eliminated and removed from consideration. The top remaining choices on all the ballots are then counted again. This process repeats until one candidate is the top remaining choice of a majority of the voters. When the field is reduced to two, it has become an "instant runoff" that allows a comparison of the top two candidates head-to-head.
 
-##Instructions
+## Instructions
 
 You are given a table called “votes” where each row represents one person’s vote. The column “X1” is that person’s first choice, “X2” is the second choice and so on. Your task is to simulate an IRV election and output the results in the format of the table below. Note that the correct answer to the results of the election are shown in the table below. However, we expect your query/queries to output the correct IRV election results when executed on another dataset (e.g. some other table "votes" with the same columns).
 
@@ -30,7 +30,7 @@ This project must be completed individually. You may discuss with other students
 
 Please submit your final assignment through bcourses. Your submission should be in the form of one SQL file (with an extension of .sql). 
 
-##Rubric
+## Rubric
 
 The following is the point breakdown for this project: 
 
@@ -43,7 +43,7 @@ The following is the point breakdown for this project:
 | Winner and/or margin of error not calculated correctly, but the code is a decent attempt at calculating the right answer | 18 - 23 points |
 | Submitted something, obvious lack of effort | 1 - 17 points
 
-##Other Notes / Updates:
+## Other Notes / Updates:
 
 
 * The project is due on Saturday, October 22, 2017 at 11:59pm. Don't wait until the last minute to get started.
